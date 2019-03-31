@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stuart Johnston Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+</head>
+<body>
+<div class="content">
+    <div id="header"> Stuart Johnston Portfolio</div>
+    <div class="nav">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact_me.html"> Contact me</a>
+        </nav>
+    </div>
+    <div id="middle">
+        <div id="p1">
+            Welcome to my first website. This website will showcase my long journey and subsequent transition into working as a web developer.
+        </div>
+        <br>
+        <div id="p2">
+            This website will contain a blog; which will show readers my journey; in addition to showing readers many of the skills I have developed throughout my training. During the next 6 months, you will see this website change, from what it is now ( a basic and unattractive website; using only HTML and CSS) to a professional lookin website, using modern technologies, and giving employers/clients the o[pportunity to see what I can do.
+        </div>
+
+
+    </div>
+
+    <div class="aside">
+        <aside>
+            <em>About me;</em> I'm a late 30's ex secondfary school teacher turn web-developer.<br>
+            <br>I decided to leave the teaching profession last year and turn my skill set to a new challenge. That challenge was web development.
+            So far; I've enjoyed every minute of transition from secondfary school teacher to a full time developer.<br>
+
+            I've always had a entreprenuerial flair; when I was in my early 30's I set up a small private tutoring company; providing maths, economics, business studies tuition to students across London.
+            I hope to put my entreprenurial skills to good use, along with my ever increasing web-development skill set.
+
+            I enjoy travelling (some of my photos are attached to this site) reading, blues, jazz, 80's, 90's music.
+
+        </aside>
+    </div>
+
+    <div class="gallery">
+       <!-- Gallery-->
+        <br>
+        <img src="Images/ankow%20wat.jpg" width = 300px height=300px alt="photo of a beach">
+        <img src="Images/beach5.jpg" width= 500px height= 300px>
+        <img src ="Images/keilder1.jpg" width=300px height=300px>
+    </div>
+
+    <div id="footer">
+        Copyright@Stuart Johnston®  2019
+    </div>
+
+
+</div>
+
+</body>
+</html>
